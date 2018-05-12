@@ -1,0 +1,32 @@
+_repo: Les-parisiennes-de-Paris_17915
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Banville, Théodore Faullain de
+    aliases:
+    - Banville, Theodore Faullain de
+    - De Banville, Théodore Faullain
+    - Banville, Théodore de
+    birthdate: 1823
+    deathdate: 1891
+    gutenberg_agent_id: '7426'
+    url: http://www.gutenberg.org/2009/agents/7426
+    wikipedia: http://fr.wikipedia.org/wiki/Th%C3%A9odore_de_Banville
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2006-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17915'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: Les parisiennes de Paris
+url: http://www.gutenberg.org/ebooks/17915
